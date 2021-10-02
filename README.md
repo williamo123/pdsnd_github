@@ -5,7 +5,7 @@
 Bikeshare program
 
 # Description:
-Program takes inputs from user to display bikeshare data for selected timeframe.
+Program takes inputs from user to display bikeshare data for selected timeframe. When user is prompted it may display dataframe and allow user to scroll through.
 
 # Files used:
 bikeshare.py, chicago.csv, new_york_city.csv, washington.csv

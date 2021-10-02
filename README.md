@@ -2,7 +2,7 @@
 2021-10-02
 
 # Project Title:
-Bikeshare program
+Bikeshare data retrieval program
 
 # Description:
 Program takes inputs from user to display bikeshare data for selected timeframe. When user is prompted it may display dataframe and allow user to scroll through.

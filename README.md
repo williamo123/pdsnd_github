@@ -5,7 +5,7 @@
 Bikeshare data retrieval program
 
 # Description:
-Program takes inputs from user to display bikeshare data for selected timeframe. When user is prompted it may display dataframe and allow user to scroll through.
+Program takes inputs from user to display bikeshare data for selected timeframe. Timeframes available are day of week, month, and hour. When user is prompted it may display dataframe and allow user to scroll through.
 
 # Files used:
 bikeshare.py, chicago.csv, new_york_city.csv, washington.csv

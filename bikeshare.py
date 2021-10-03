@@ -28,7 +28,7 @@ def get_filters():
     # Get user input for month (all, january, february, ... , june)
     month = ''
     while month not in ['january', 'february', 'march', 'april', 'may', 'june', 'all']:
-        month = input('Enter the month or enter "all" for all months: ').lower()
+        month = input('Enter the month or enter "all" for all months, spell out month name: ').lower()
         if month not in ['january', 'february', 'march', 'april', 'may', 'june', 'all']:
             print('Invalid entry')
     #Convert month string to integer.

@@ -21,7 +21,7 @@ def get_filters():
     city = ''
     while city not in ['chicago', 'new york city', 'washington']:
         city = input(
-            'Choose one of the following cities to view bike share data (chicago, new york city, or washington): ').lower()
+            'Choose one of the following cities to view bike share data (chicago, new york city, or washington), make sure to spell city name exactly as it is here: ').lower()
         if city not in ['chicago', 'new york city', 'washington']:
             print('Invalid entry.')
 
